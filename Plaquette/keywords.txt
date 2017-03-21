@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map For Plaquette
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AnalogIn	KEYWORD1
+DigitalIn	KEYWORD1
+PwmOut	KEYWORD1
+DigitalOut	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup KEYWORD2
+update	KEYWORD2
+
+pin	KEYWORD2
+mode	KEYWORD2
+
+on	KEYWORD2
+off	KEYWORD2
+put	KEYWORD2
+
+isOn	KEYWORD2
+isOff	KEYWORD2
+get	KEYWORD2
+getInt KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SOURCE	LITERAL1
+SINK	LITERAL1
+INTERNAL_PULLUP	LITERAL1
+EXTERNAL_PULLUP	LITERAL1
+EXTERNAL_PULLDOWN	LITERAL1
+ANALOG_DEFAULT	LITERAL1
+ANALOG_INVERTED	LITERAL1
